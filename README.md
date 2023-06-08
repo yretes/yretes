@@ -1,10 +1,10 @@
 Hi 👋 My name is Kristian!
 ==========================
 
-Student Game developer
+Gameplay programmer
 ----------------------
 
-I'm a game developer student finishing my bachelor's degree in gametechnology and simulation at the Inland Norway University of Applied Sciences. Love working with gameplay programming and NPCs/AI behavior in games!
+I'm a gameplay programmer who just finished my bachelor's degree in game technology and simulation at the Inland Norway University of Applied Sciences. Love working with gameplay programming and NPCs/AI behavior in games!
 
 *   🌍  I'm based in Hamar, Norway
 *   ✉️  You can contact me at [kristianwhittlestensland@gmail.com](mailto:kristianwhittlestensland@gmail.com)
