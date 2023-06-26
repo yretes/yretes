@@ -8,7 +8,7 @@ I'm a gameplay programmer who just finished my bachelor's degree in game technol
 
 *   🌍  I'm based in Hamar, Norway
 *   ✉️  You can contact me at [kristianwhittlestensland@gmail.com](mailto:kristianwhittlestensland@gmail.com)
-*   🚀  I'm currently working on [My Bachelor's degree project](http://https://github.com/Xephoney/RaidParty)
+*   🚀  I'm currently working on my portfolio
 *   🧠  I'm learning Python for fun
 
 ### Skills 
