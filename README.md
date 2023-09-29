@@ -24,4 +24,3 @@ I'm a gameplay programmer who just finished my bachelor's degree in game technol
 <p align="left">
 <a href="https://www.github.com/yretes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/kristian-whittle-stensland-3465b8229/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-<a href="[https://www.kristianws.com/](https://www.kristianws.com/home)" target="_blank" rel="noreferrer"><img src="https://lh3.googleusercontent.com/PzLkdbpm-qH8BcHwbdXpJ97VzJG_mGGTlM0uATTGkg9HcOVFPueEJN4FxXCrdiZy-ebYCQKUVbjLrMF_13DdG9o=w16383" width="32" height="32" /></a></p>
