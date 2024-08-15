@@ -6,10 +6,10 @@ Gameplay programmer
 
 I'm a gameplay programmer who just finished my bachelor's degree in game technology and simulation at the Inland Norway University of Applied Sciences. Love working with gameplay programming and NPCs/AI behavior in games!
 
-*   🌍  I'm based in Hamar, Norway
+*   🌍  I'm based in Drammen, Norway
 *   ✉️  You can contact me at [kristian@kristianws.com](mailto:kristian@kristianws.com)
-*   🚀  I'm currently building towards a master's degree in XR development
-*   🧠  I'm learning about XR development
+*   🚀  I'm currently working as a software engineer at Kongsberg defence & aerospace
+*   🧠  I'm how to develop for the PlayDate console
 
 ### Skills 
 <p align="left">
