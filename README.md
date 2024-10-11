@@ -9,7 +9,7 @@ I'm a gameplay programmer who just finished my bachelor's degree in game technol
 *   🌍  I'm based in Drammen, Norway
 *   ✉️  You can contact me at [kristian@kristianws.com](mailto:kristian@kristianws.com)
 *   🚀  I'm currently working as a software engineer at Kongsberg defence & aerospace
-*   🧠  I'm how to develop for the PlayDate console
+*   🧠  I'm learning how to develop for the PlayDate console
 
 ### Skills 
 <p align="left">
